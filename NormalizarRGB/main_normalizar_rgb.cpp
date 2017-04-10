@@ -27,7 +27,7 @@ Mat normalizRGB(Mat &imagen) {;
 }
 
 int main(){
-	/*Mat escena;
+	Mat escena;
 	VideoCapture frame;
 	frame.open(0);
 	for (;;) {
@@ -36,18 +36,7 @@ int main(){
 		if (waitKey(30) > 0) break;
 	}
 	
-	*/
-	int A = 4;
-	while (A > 0) {
-		switch (A--) {
-		case 1: cout << "1";
-			break;
-		case 2: cout << "2";
-		case 3: cout << "3";
-		case 4: cout << "4";
-			break;
-		}
-	}
+
 	system("PAUSE");
 	return 0;
 }
