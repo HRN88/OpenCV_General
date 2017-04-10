@@ -1,0 +1,3 @@
+﻿  main.cpp
+d:\externokoppernikus\documentos\popencv\opencvlibro\histogrambn\main.cpp(86): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  histogrambn.vcxproj -> D:\ExternoKoppernikus\Documentos\POpenCV\OpencvLibro\histogrambn\x64\Debug\histogrambn.exe

@@ -1,0 +1,2 @@
+﻿  op_mat.cpp
+LINK : fatal error LNK1104: cannot open file 'C:\opencv\build\x64\vc12\lib\opencv_world310d.lib'

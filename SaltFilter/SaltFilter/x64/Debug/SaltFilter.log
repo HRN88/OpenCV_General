@@ -1,0 +1,6 @@
+﻿  saltfilter_functions.cpp
+d:\externokoppernikus\documentos\github\opencv\saltfilter\saltfilter\saltfilter_functions.cpp(26): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.cpp
+  Generating Code...
+  SaltFilter.vcxproj -> D:\ExternoKoppernikus\Documentos\GitHub\OpenCV\SaltFilter\x64\Debug\SaltFilter.exe
+  SaltFilter.vcxproj -> D:\ExternoKoppernikus\Documentos\GitHub\OpenCV\SaltFilter\x64\Debug\SaltFilter.pdb (Full PDB)

@@ -1,0 +1,11 @@
+﻿Build started 31/03/2016 10:39:22 p.m..
+     1>Project "F:\ExternoKoppernikus\Documentos\POpenCV\Ejercicio_1\Ejercicio_1\Ejercicio_1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\opencv\build\x64\vc12\..\..\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>f:\externokoppernikus\documentos\popencv\ejercicio_1\ejercicio_1\source.cpp(15): error C2059: syntax error : 'return'
+     1>Done Building Project "F:\ExternoKoppernikus\Documentos\POpenCV\Ejercicio_1\Ejercicio_1\Ejercicio_1.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:05.23

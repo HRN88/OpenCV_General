@@ -1,0 +1,16 @@
+﻿Build started 15/03/2017 12:11:34 p.m..
+     1>Project "C:\Users\Funkadmin\Desktop\Histograma\Histograma\Histograma.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\opencv\build\x64\vc12\..\..\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt histogram.cpp main.cpp
+         main.cpp
+         histogram.cpp
+     1>c:\users\funkadmin\desktop\histograma\histograma\histogram.cpp(9): error C2439: 'Histogram1D::ranges' : member could not be initialized
+                 c:\users\funkadmin\desktop\histograma\histograma\histogram.h(12) : see declaration of 'Histogram1D::ranges'
+     1>c:\users\funkadmin\desktop\histograma\histograma\histogram.cpp(13): error C2440: '=' : cannot convert from 'float [2]' to 'const float'
+                 There is no context in which this conversion is possible
+         Generating Code...
+     1>Done Building Project "C:\Users\Funkadmin\Desktop\Histograma\Histograma\Histograma.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:03.81

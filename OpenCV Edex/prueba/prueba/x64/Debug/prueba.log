@@ -1,0 +1,18 @@
+﻿Build started 30/03/2016 11:54:34 p.m..
+     1>Project "F:\ExternoKoppernikus\Documentos\POpenCV\prueba\prueba\prueba.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /IC:\opencv\build\x64\vc12\..\..\include /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt Source.cpp
+         Source.cpp
+     1>Source.cpp(23): error C2679: binary '=' : no operator found which takes a right-hand operand of type 'IplImage *' (or there is no acceptable conversion)
+                 C:\opencv\build\include\opencv2/core/mat.hpp(1869): could be 'cv::Mat &cv::Mat::operator =(cv::Mat &&)'
+                 C:\opencv\build\include\opencv2/core/mat.hpp(1113): or       'cv::Mat &cv::Mat::operator =(const cv::Scalar &)'
+                 C:\opencv\build\include\opencv2/core/mat.hpp(957): or       'cv::Mat &cv::Mat::operator =(const cv::MatExpr &)'
+                 C:\opencv\build\include\opencv2/core/mat.hpp(948): or       'cv::Mat &cv::Mat::operator =(const cv::Mat &)'
+                 while trying to match the argument list '(cv::Mat, IplImage *)'
+     1>Source.cpp(32): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>Source.cpp(33): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>Done Building Project "F:\ExternoKoppernikus\Documentos\POpenCV\prueba\prueba\prueba.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:03.56
