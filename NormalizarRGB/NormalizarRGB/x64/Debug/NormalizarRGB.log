@@ -1,6 +1,0 @@
-﻿  main.cpp
-d:\externokoppernikus\escritorio\normalizarrgb\normalizarrgb\main.cpp(19): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
-d:\externokoppernikus\escritorio\normalizarrgb\normalizarrgb\main.cpp(20): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
-d:\externokoppernikus\escritorio\normalizarrgb\normalizarrgb\main.cpp(21): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
-  NormalizarRGB.vcxproj -> D:\ExternoKoppernikus\Escritorio\NormalizarRGB\x64\Debug\NormalizarRGB.exe
-  NormalizarRGB.vcxproj -> D:\ExternoKoppernikus\Escritorio\NormalizarRGB\x64\Debug\NormalizarRGB.pdb (Full PDB)
